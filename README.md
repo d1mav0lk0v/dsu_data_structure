@@ -1,8 +1,8 @@
-# DSU - disjoin-set-union
+# DSU - disjoint-set-union
 
 ### Info
 
-See the structure description at the [link](https://en.wikipedia.org/wiki/Disjoint-set_data_structure).
+See the disjoint set union data structure description at the [link](https://en.wikipedia.org/wiki/Disjoint-set_data_structure).
 
 This implementation is built on sets and not references to parents. Therefore, the complexity of the operation is different from the article. Also added some useful methods.
 
